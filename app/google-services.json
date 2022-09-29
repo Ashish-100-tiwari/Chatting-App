@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543174966259",
+    "project_id": "whatsapp-441fc",
+    "storage_bucket": "whatsapp-441fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543174966259:android:67365804df625e16d93086",
+        "android_client_info": {
+          "package_name": "com.ashishtiwari.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543174966259-7u96uqimj8528p5nrvepf2ubfaniggc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVwj8uTNBw67TDa5rBKJH8UQYYBCDsbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543174966259-7u96uqimj8528p5nrvepf2ubfaniggc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
