@@ -33,7 +33,6 @@ public class MessagesAdapter extends RecyclerView.Adapter {
         this.context=context;
         this.senderRoom=senderRoom;
         this.receiverRoom =receiverRoom;
-
     }
     @NonNull
     @Override

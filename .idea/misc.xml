@@ -3,16 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/drawable/circle_bg.xml" value="0.1905" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/drawable/circle_green.xml" value="0.1905" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/drawable/sent_drawable.xml" value="0.1835" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/drawable/textbox_outline.xml" value="0.1335" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/activity_chat.xml" value="0.22" />
-        <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/activity_otpactivity.xml" value="0.33" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/activity_phone_number.xml" value="0.33" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/activity_setup_profile.xml" value="0.22" />
+        <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/circle_bg.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/demo_layout.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/demo_status.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/item_receive.xml" value="0.18229166666666666" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/item_recive.xml" value="0.9" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/item_send.xml" value="0.9" />
+        <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/item_status.xml" value="0.5" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/row_conversation.xml" value="0.25" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/layout/row_coonversation.xml" value="0.67" />
         <entry key="..\:/Users/hp/Documents/app_development/WhatsApp/app/src/main/res/menu/menu.xml" value="0.18229166666666666" />

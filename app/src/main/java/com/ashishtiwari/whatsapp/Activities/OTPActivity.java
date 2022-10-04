@@ -4,8 +4,11 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.inputmethod.InputMethod;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.Toast;
 
 import com.ashishtiwari.whatsapp.databinding.ActivityOtpactivityBinding;
@@ -63,6 +66,10 @@ public class OTPActivity extends AppCompatActivity {
                         super.onCodeSent(verifyId, forceResendingToken);
                         dialog.dismiss();
                         verificationId=verifyId;
+
+                        InputMethodManager imm= (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+                        imm.toggleSoftInput(InputMethodManager.SHOW_FORCED,0);
+                        binding.otpView.requestFocus();
                     }
                 }).build();
         PhoneAuthProvider.verifyPhoneNumber(options);
